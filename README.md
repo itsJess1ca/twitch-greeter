@@ -15,6 +15,7 @@ Currently, to add a caster to the list of targets, you run `!caster username` in
 ```
 {
   "mongoUrl":"MONGO_URI",
+  "twitchBotName": "TWITCH_BOTS_NAME",
   "twitchOAuth": "TWITCH_OAUTH"
 }
 
